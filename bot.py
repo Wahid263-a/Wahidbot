@@ -1,0 +1,1 @@
+"Wahid Bot is ready"
